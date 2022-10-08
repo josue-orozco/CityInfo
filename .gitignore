@@ -1,3 +1,4 @@
 /.vs
 /CityInfo.API/output
+/CityInfo.API/obj
 /CityInfo.API/CityInfo.API.csproj.user

@@ -5,9 +5,9 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
-    <DocumentationFile>\output\CityInfo.API.xml</DocumentationFile>
-    <BaseOutputPath>\output\bin\</BaseOutputPath>
-    <BaseIntermediateOutputPath>\output\obj\</BaseIntermediateOutputPath>
+    <DocumentationFile>output\CityInfo.API.xml</DocumentationFile>
+    <BaseOutputPath>output\bin\</BaseOutputPath>
+    <BaseIntermediateOutputPath>output\obj\</BaseIntermediateOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
