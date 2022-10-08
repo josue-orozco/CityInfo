@@ -5,7 +5,9 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
-    <DocumentationFile>CityInfo.API.xml</DocumentationFile>
+    <DocumentationFile>\output\CityInfo.API.xml</DocumentationFile>
+    <BaseOutputPath>\output\bin\</BaseOutputPath>
+    <BaseIntermediateOutputPath>\output\obj\</BaseIntermediateOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
@@ -29,7 +31,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="PluralSight Courses.txt">
+    <None Update="SampleFile.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

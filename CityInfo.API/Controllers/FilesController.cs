@@ -24,7 +24,7 @@ namespace CityInfo.API.Controllers
         {
             // look up the actual file, depending on the fieldId
             // hardcoded for now
-            var pathToFile = "PluralSight Courses.txt";
+            var pathToFile = "SampleFile.txt";
 
             //check whether the file exists
             if (System.IO.File.Exists(pathToFile) == false)

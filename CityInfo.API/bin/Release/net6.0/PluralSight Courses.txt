@@ -1,7 +1,0 @@
-By now I should be starting the app. Watch these in parallel:
--Building an API with ASP.NET Core (2.5)
--Design Patterns (potentially helpful for interviews) (14)
-
-Pause on this till I get experience on the previous:
--Azure (~5)
--Microservices (~5)
